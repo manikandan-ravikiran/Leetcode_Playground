@@ -15,3 +15,4 @@ Solutions to problems in cracking the coding interview and Leetcode problems
 10. Backspace String Compare
 11. Logger Rate Limiter
 12. Top k most repeated elements (nlogn using Heap)
+13. Min stack (constant time)
