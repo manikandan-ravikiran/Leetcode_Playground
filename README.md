@@ -18,3 +18,4 @@ Solutions to problems in cracking the coding interview and Leetcode problems
 13. Min stack (constant time)
 14. Diameter of a Binary Tree
 15. Largest Stone (heap log(n))
+16. Contigous binary array
