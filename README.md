@@ -19,4 +19,4 @@ Solutions to problems in cracking the coding interview and Leetcode problems
 14. Diameter of a Binary Tree
 15. Largest Stone (heap log(n))
 16. Contigous binary array
-17. Perform String Shifts
+17. Perform String Shifts (o(n))
