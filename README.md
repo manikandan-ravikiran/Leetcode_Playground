@@ -21,3 +21,4 @@ Solutions to problems in cracking the coding interview and Leetcode problems
 16. Contigous binary array
 17. Perform String Shifts (o(n))
 18. Array Except Self
+19. Valid Paranthesis with * O(n)
