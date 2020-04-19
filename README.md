@@ -24,3 +24,4 @@ Solutions to problems in cracking the coding interview and Leetcode problems
 19. Valid Paranthesis with * O(n)
 20. Number of Islands (DFS/BFS)
 21. Minimum Path Sum
+22. Search in Rotated Array (O(logn))
