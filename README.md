@@ -25,3 +25,4 @@ Solutions to problems in cracking the coding interview and Leetcode problems
 20. Number of Islands (DFS/BFS)
 21. Minimum Path Sum
 22. Search in Rotated Array (O(logn))
+23. Construct Binary Search Tree from Preorder Traversal
