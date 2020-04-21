@@ -26,3 +26,4 @@ Solutions to problems in cracking the coding interview and Leetcode problems
 21. Minimum Path Sum
 22. Search in Rotated Array (O(logn))
 23. Construct Binary Search Tree from Preorder Traversal
+24. Leftmost Column with at Least a One
