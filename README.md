@@ -28,3 +28,4 @@ Solutions to problems in cracking the coding interview and Leetcode problems
 23. Construct Binary Search Tree from Preorder Traversal
 24. Leftmost Column with at Least a One
 25. Sum of subarray with k
+26. Bitwise AND of all numbers using Brian Kernighan's Algorithm
