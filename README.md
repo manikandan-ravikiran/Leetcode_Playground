@@ -32,3 +32,4 @@ Solutions to problems in cracking the coding interview and Leetcode problems
 27. LRU Cache
 28. Jump Game
 29. Longest common subsequence
+30. Maximal Square
