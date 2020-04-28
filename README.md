@@ -33,3 +33,4 @@ Solutions to problems in cracking the coding interview and Leetcode problems
 28. Jump Game
 29. Longest common subsequence
 30. Maximal Square
+31. First Unique Number
