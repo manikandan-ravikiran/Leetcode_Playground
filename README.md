@@ -34,3 +34,4 @@ Solutions to problems in cracking the coding interview and Leetcode problems
 29. Longest common subsequence
 30. Maximal Square
 31. First Unique Number
+32. Binary Tree Maximum Path Sum
