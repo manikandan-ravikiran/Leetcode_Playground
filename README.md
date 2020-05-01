@@ -36,3 +36,4 @@ Solutions to problems in cracking the coding interview and Leetcode problems
 31. First Unique Number
 32. Binary Tree Maximum Path Sum
 33. Root to Leaves Path in a Binary Tree
+34. First Bad version
