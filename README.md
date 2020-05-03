@@ -38,3 +38,4 @@ Solutions to problems in cracking the coding interview and Leetcode problems
 33. Root to Leaves Path in a Binary Tree
 34. First Bad version
 35. Jewels and Stone (set based solution)
+36. Ransom Note (Hash solution)   
