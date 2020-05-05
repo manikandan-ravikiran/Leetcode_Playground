@@ -38,8 +38,6 @@ Solutions to problems in cracking the coding interview and Leetcode problems
 33. Root to Leaves Path in a Binary Tree
 34. First Bad version
 35. Jewels and Stone (set based solution)
-<<<<<<< HEAD
 36. Bit Manipulation Compliment of a number
-=======
 36. Ransom Note (Hash solution)   
->>>>>>> e429aac5329036b2f39aafb2f6604cbdbe9077d0
+37. First Unique Character in a String
