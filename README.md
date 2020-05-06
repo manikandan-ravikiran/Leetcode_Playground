@@ -41,3 +41,4 @@ Solutions to problems in cracking the coding interview and Leetcode problems
 36. Bit Manipulation Compliment of a number
 36. Ransom Note (Hash solution)   
 37. First Unique Character in a String
+38. Majority Element *n/2*
