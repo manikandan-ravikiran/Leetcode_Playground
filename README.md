@@ -43,3 +43,4 @@ Solutions to problems in cracking the coding interview and Leetcode problems
 37. First Unique Character in a String
 38. Majority Element *n/2*
 39. Cousins of Binary Tree
+40. Check is set of line is straightline
