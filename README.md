@@ -44,3 +44,4 @@ Solutions to problems in cracking the coding interview and Leetcode problems
 38. Majority Element *n/2*
 39. Cousins of Binary Tree
 40. Check is set of line is straightline
+41. Valid Perfect Square using Binary Search
