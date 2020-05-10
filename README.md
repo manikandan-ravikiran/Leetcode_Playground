@@ -45,3 +45,4 @@ Solutions to problems in cracking the coding interview and Leetcode problems
 39. Cousins of Binary Tree
 40. Check is set of line is straightline
 41. Valid Perfect Square using Binary Search
+42. Find the town judge O(n)
