@@ -47,3 +47,4 @@ Solutions to problems in cracking the coding interview and Leetcode problems
 41. Valid Perfect Square using Binary Search
 42. Find the town judge O(n)
 43. Flood Fill
+44. Single Element Sorted Array
