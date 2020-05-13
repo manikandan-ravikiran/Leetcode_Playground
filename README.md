@@ -48,3 +48,4 @@ Solutions to problems in cracking the coding interview and Leetcode problems
 42. Find the town judge O(n)
 43. Flood Fill
 44. Single Element Sorted Array
+45. Remove K digits such that number is smaller
