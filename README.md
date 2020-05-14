@@ -49,3 +49,4 @@ Solutions to problems in cracking the coding interview and Leetcode problems
 43. Flood Fill
 44. Single Element Sorted Array
 45. Remove K digits such that number is smaller
+46. Trie Tree (Prefix Tree)
