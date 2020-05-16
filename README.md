@@ -51,3 +51,4 @@ Solutions to problems in cracking the coding interview and Leetcode problems
 45. Remove K digits such that number is smaller
 46. Trie Tree (Prefix Tree)
 47. Maximum sum circular sub array
+48. Odd-Even Linked list
