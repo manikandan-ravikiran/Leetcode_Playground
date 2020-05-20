@@ -54,3 +54,4 @@ Solutions to problems in cracking the coding interview and Leetcode problems
 48. Odd-Even Linked list
 49. Permutation in String
 50. Online Stock Span
+51. Kth Smallest Element
