@@ -55,3 +55,4 @@ Solutions to problems in cracking the coding interview and Leetcode problems
 49. Permutation in String
 50. Online Stock Span
 51. Kth Smallest Element
+52. Count Square Submatrices with All Ones
