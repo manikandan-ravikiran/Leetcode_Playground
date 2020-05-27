@@ -61,3 +61,4 @@ Solutions to problems in cracking the coding interview and Leetcode problems
 55. Construct Binary Search Tree from Preorder Traversal
 56. Uncrossed Lines
 57. Contigous array through Hashmap
+58. Possible Bipartition
