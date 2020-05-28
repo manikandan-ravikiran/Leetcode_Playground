@@ -63,3 +63,5 @@ Solutions to problems in cracking the coding interview and Leetcode problems
 57. Contigous array through Hashmap
 58. Possible Bipartition
 59. Counting Bits
+60. Find All Anagrams in a String
+61. 
